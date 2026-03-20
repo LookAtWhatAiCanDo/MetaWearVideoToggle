@@ -3,7 +3,7 @@ package com.example.metaglassesrecorder.wear.ui
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.metaglassesrecorder.service.RecordingState
+import com.example.metaglassesrecorder.wear.RecordingState
 import com.example.metaglassesrecorder.wear.WearApp
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow

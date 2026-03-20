@@ -36,7 +36,7 @@ import androidx.wear.compose.material.Button
 import androidx.wear.compose.material.ButtonDefaults
 import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
-import com.example.metaglassesrecorder.service.RecordingState
+import com.example.metaglassesrecorder.wear.RecordingState
 
 class WearMainActivity : ComponentActivity() {
 

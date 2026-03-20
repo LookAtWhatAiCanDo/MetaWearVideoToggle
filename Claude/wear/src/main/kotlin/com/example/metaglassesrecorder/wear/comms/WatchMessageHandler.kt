@@ -2,7 +2,7 @@ package com.example.metaglassesrecorder.wear.comms
 
 import android.content.Context
 import android.util.Log
-import com.example.metaglassesrecorder.service.RecordingState
+import com.example.metaglassesrecorder.wear.RecordingState
 import com.google.android.gms.wearable.Wearable
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

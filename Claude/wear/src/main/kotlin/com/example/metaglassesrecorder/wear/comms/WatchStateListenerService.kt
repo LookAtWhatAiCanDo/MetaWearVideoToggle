@@ -1,7 +1,7 @@
 package com.example.metaglassesrecorder.wear.comms
 
 import android.util.Log
-import com.example.metaglassesrecorder.service.RecordingState
+import com.example.metaglassesrecorder.wear.RecordingState
 import com.example.metaglassesrecorder.wear.WearApp
 import com.google.android.gms.wearable.MessageEvent
 import com.google.android.gms.wearable.WearableListenerService
